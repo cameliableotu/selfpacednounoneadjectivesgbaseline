@@ -95,10 +95,10 @@ var items = [
 
 //// Shared experimental items + fillers
 
-[["ATTRAGREEROMANIAN-matchheadsg",1],DS, {s:" Cartea de lângă femeia blondă mereu au un farmec aparte." },"QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cartea","Femeia"]}],
-[["ATTRAGREEROMANIAN-mismatchheadsg",1],DS, {s:" Cartea de lângă femeile blobde mereu au un farmec aparte."}, "QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cartea","Femeile"]}],
-[["ATTRAGREEROMANIAN-matchheadpl",1],DS, {s:"Cărţile de lângă femeile blonde mereu au un farmec aparte."}, "QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cărţile","Femeile"]}],
-[["ATTRAGREEROMANIAN-mismatchheadpl",1],DS, {s:" Cărţile de lângă femeia blondă mereu au un farmec aparte."}, "QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cărţile","Femeia"]}],
+[["ATTRAGREEROMANIAN-matchsg",1],DS, {s:" Cartea de lângă femeia blondă mereu are un farmec aparte." },"QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cartea","Femeia"]}],
+[["ATTRAGREEROMANIAN-matchpl",1],DS, {s:" Cartea de lângă femeile blonde mereu are un farmec aparte."}, "QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cartea","Femeile"]}],
+[["ATTRAGREEROMANIAN-mismatchpl",1],DS, {s:"Cartea de lângă femeile blonde mereu au un farmec aparte."}, "QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cărţile","Femeile"]}],
+[["ATTRAGREEROMANIAN-mismatchsg",1],DS, {s:"Cartea de lângă femeia blondă mereu au un farmec aparte."}, "QuestionAlt", {q: "Cine/ Ce are un farmec aparte?", as: ["Cărţile","Femeia"]}],
 [["ATTRAGREEROMANIAN-matchheadsg",2],DS, {s:"Vioara de lângă cântăreaţa profesionistă mereu au arcuş maro deschis."} ,"QuestionAlt", {q: "Cine/ce are arcuș maro deschis?", as: ["Vioara","Cântăreața"]}],
 [["ATTRAGREEROMANIAN-mismatchheadsg",2],DS, {s:"Vioara de lângă cântăreţele profesioniste mereu au arcuş maro deschis."}, "QuestionAlt", {q: "Cine/ce are arcuș maro deschis?", as: ["Vioara","Cântărețele"]}],
 [["ATTRAGREEROMANIAN-matchheadpl",2],DS, {s:"Viorile de lângă cântăreţele profesioniste mereu au arcuş maro deschis."}, "QuestionAlt", {q: "Cine/ce are arcuș maro deschis?", as: ["Viorile","Cântărețele"]}],
